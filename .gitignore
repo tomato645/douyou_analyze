@@ -1,5 +1,6 @@
 venv
 .vscode
 html_files
+*.html
 *.csv
 *.png
