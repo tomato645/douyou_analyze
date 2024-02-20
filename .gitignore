@@ -3,4 +3,5 @@ venv
 html_files
 *.html
 *.csv
+wordcloud
 *.png
