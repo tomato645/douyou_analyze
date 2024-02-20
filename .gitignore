@@ -3,5 +3,6 @@ venv
 html_files
 *.html
 *.csv
-wordcloud
+barGraph
+wordCloud
 *.png
